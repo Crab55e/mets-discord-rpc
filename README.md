@@ -11,5 +11,5 @@ node.jsで実行する場合:
 - ダブルクリックできるくらいの指の力  
 
 # contact  
-- [Discord](/discord.gg/4uYRsYAnNt)  
+- [Discord](//discord.gg/4uYRsYAnNt)  
 - [Twitter](//twitter.com/Crab55e)  
