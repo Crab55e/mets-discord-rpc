@@ -3,7 +3,7 @@ Discordでちょっとかっこいい宣伝をするためのアプリ(?)
 
 # requirements  
 node.jsで実行する場合:  
-- node.js  
+- node.js（笑）  
 - "discord-rpc" ライブラリ  
 
 リリースされたexeファイルで実行する場合:  
